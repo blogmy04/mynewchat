@@ -44,7 +44,7 @@ module.exports = async function handler(req, res) {
         model: MODEL,
         messages: [{ role: "system", content: SYSTEM_PROMPT }, ...history],
         temperature: 0.7,
-        max_tokens: 500,
+        max_tokens: 1500,
       }),
     });
 
