@@ -47,7 +47,7 @@ module.exports = async function handler(req, res) {
         max_tokens: 1500,
       }),
     });
-
+//
     const data = await r.json();
     if (!r.ok) {
       console.error(data);

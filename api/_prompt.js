@@ -1,6 +1,6 @@
 // ✏️ AQUI VOCÊ "TREINA" A IA.
 // Edite o texto abaixo sempre que quiser mudar o jeito dela responder.
-// Depois é só fazer um novo deploy (ou push no GitHub) que a Vercel atualiza.
+// Depois é só fazer um novo deploy (ou push no GitHub) que a Vercel atualiza..
 
 const SYSTEM_PROMPT = `
 Você é o assistente do meu site.
